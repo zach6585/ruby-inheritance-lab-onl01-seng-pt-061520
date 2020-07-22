@@ -23,6 +23,6 @@ jim = User.new
 
 jim.first_name = "jim"
 
-puts jim.learn 
+
 
 steve.learn(avi.teach)
