@@ -25,4 +25,4 @@ jim.first_name = "jim"
 
 a = avi.teach 
 
-steve.learn(a)
+puts steve.learn(a)
